@@ -1,11 +1,10 @@
 <div align="center">
-  <img height="100em" src="https://repository-images.githubusercontent.com/254768707/aebbf600-8eb5-11ea-971b-bf456e0a56d3"/>
-</div>
-<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saulotracer&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulotracer&layout=compact&theme=chartreuse-dark&exclude_repo=muttus"/>
 </div>
+<hr width="80%"/>
 <div align="center">
+  <img height="100em" src="https://repository-images.githubusercontent.com/254768707/aebbf600-8eb5-11ea-971b-bf456e0a56d3"/><br/>
   <img src="https://github.com/SauloTracer/saulotracer/blob/main/dont-panic.gif"/>
 </div>
 <!--
